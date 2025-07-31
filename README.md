@@ -22,12 +22,12 @@ In Week 3, we focused on identifying distinct **market regimes** using unsupervi
 
 | File | Description |
 |------|-------------|
-| `features.csv` | Normalized features used for clustering |
+| `features_with_OBI_market.csv` | Normalized features used for clustering, heres the drive link for it : https://drive.google.com/drive/folders/1NLtwjYU-1zK86ZXeeV2WmTFAYMJBTnTh?usp=sharing |
 | `elbow_plot.png` | Plot showing WCSS vs `k` for elbow method |
 | `pca_plot.png` | 2D PCA projection of clusters |
 | `cluster_heatmap.png` | Heatmap of average feature values per cluster |
-| `regime_labels.csv` | Cluster-wise regime labels (e.g., “High Volatility Bullish”) |
 | `notebook.ipynb` | Jupyter notebook with full code & explanations |
+
 
 ---
 
